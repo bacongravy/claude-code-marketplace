@@ -1,0 +1,9 @@
+{
+  "name": "bacongravy",
+  "owner": {
+    "name": "David Kramer"
+  },
+  "description": "A collection of bacongravy's Claude Code plugins",
+  "version": "1.0.4",
+  "plugins": []
+}
