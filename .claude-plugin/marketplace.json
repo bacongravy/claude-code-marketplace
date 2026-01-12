@@ -9,7 +9,10 @@
     {
       "name": "iterm",
       "description": "iTerm2 terminal automation commands for Claude Code - manage panes, tabs, windows, profiles, and layouts",
-      "source": "https://github.com/bacongravy/claude-code-iterm"
+      "source": {
+        "source": "url",
+        "url": "https://github.com/bacongravy/claude-code-iterm.git"
+      }
     }
   ]
 }
