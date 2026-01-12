@@ -4,6 +4,12 @@
     "name": "David Kramer"
   },
   "description": "A collection of bacongravy's Claude Code plugins",
-  "version": "1.0.4",
-  "plugins": []
+  "version": "1.0.5",
+  "plugins": [
+    {
+      "name": "iterm",
+      "description": "iTerm2 terminal automation commands for Claude Code - manage panes, tabs, windows, profiles, and layouts",
+      "repository": "https://github.com/bacongravy/claude-code-iterm"
+    }
+  ]
 }

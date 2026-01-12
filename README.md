@@ -4,7 +4,9 @@ A Claude Code plugin marketplace that indexes plugins from external repositories
 
 ## Available Plugins
 
-No plugins available yet.
+| Plugin | Description |
+|--------|-------------|
+| [iterm](https://github.com/bacongravy/claude-code-iterm) | iTerm2 terminal automation - manage panes, tabs, windows, profiles, and layouts |
 
 ## Installation
 
